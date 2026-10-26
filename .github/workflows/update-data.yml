@@ -1,0 +1,46 @@
+name: Update Blues data
+
+on:
+  schedule:
+    # 07:30 and 22:45 UTC. That is morning and late evening in the UK,
+    # after afternoon and evening kick-offs have usually finished.
+    - cron: "30 7 * * *"
+    - cron: "45 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blues-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download the latest fixtures, results and table
+        run: python scripts/update_data.py
+
+      - name: Check the saved data
+        run: python scripts/check_data.py
+
+      - name: Save the data if something changed
+        run: |
+          if [ -z "$(git status --porcelain -- data)" ]; then
+            echo "Nothing new to save."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Update Birmingham City fixtures, results and table"
+          git push
