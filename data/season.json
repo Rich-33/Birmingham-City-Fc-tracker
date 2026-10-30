@@ -186,6 +186,21 @@
       },
       {
         "rank": 10,
+        "teamId": "398",
+        "team": "Sheffield United",
+        "played": 13,
+        "won": 5,
+        "drawn": 4,
+        "lost": 4,
+        "goalsFor": 17,
+        "goalsAgainst": 15,
+        "goalDifference": 2,
+        "points": 19,
+        "deduction": 0,
+        "isBlues": false
+      },
+      {
+        "rank": 11,
         "teamId": "365",
         "team": "Blackburn Rovers",
         "played": 12,
@@ -200,7 +215,7 @@
         "isBlues": false
       },
       {
-        "rank": 11,
+        "rank": 12,
         "teamId": "385",
         "team": "Portsmouth",
         "played": 12,
@@ -211,21 +226,6 @@
         "goalsAgainst": 15,
         "goalDifference": 1,
         "points": 18,
-        "deduction": 0,
-        "isBlues": false
-      },
-      {
-        "rank": 12,
-        "teamId": "398",
-        "team": "Sheffield United",
-        "played": 12,
-        "won": 4,
-        "drawn": 4,
-        "lost": 4,
-        "goalsFor": 16,
-        "goalsAgainst": 15,
-        "goalDifference": 1,
-        "points": 16,
         "deduction": 0,
         "isBlues": false
       },
@@ -293,13 +293,13 @@
         "rank": 17,
         "teamId": "352",
         "team": "Wrexham",
-        "played": 12,
+        "played": 13,
         "won": 3,
         "drawn": 5,
-        "lost": 4,
+        "lost": 5,
         "goalsFor": 15,
-        "goalsAgainst": 18,
-        "goalDifference": -3,
+        "goalsAgainst": 19,
+        "goalDifference": -4,
         "points": 14,
         "deduction": 0,
         "isBlues": false
@@ -2869,6 +2869,6 @@
       }
     ]
   },
-  "updatedAt": "2026-10-26T11:30:49Z",
-  "updatedLabel": "Monday 26 October 2026, 11:30 UK"
+  "updatedAt": "2026-10-30T23:15:34Z",
+  "updatedLabel": "Friday 30 October 2026, 23:15 UK"
 }
