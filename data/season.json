@@ -53,19 +53,34 @@
         "rank": 1,
         "teamId": "369",
         "team": "Middlesbrough",
-        "played": 13,
+        "played": 14,
         "won": 8,
         "drawn": 4,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 30,
-        "goalsAgainst": 17,
-        "goalDifference": 13,
+        "goalsAgainst": 19,
+        "goalDifference": 11,
         "points": 28,
         "deduction": 0,
         "isBlues": false
       },
       {
         "rank": 2,
+        "teamId": "380",
+        "team": "Wolverhampton Wanderers",
+        "played": 14,
+        "won": 8,
+        "drawn": 3,
+        "lost": 3,
+        "goalsFor": 25,
+        "goalsAgainst": 17,
+        "goalDifference": 8,
+        "points": 27,
+        "deduction": 0,
+        "isBlues": false
+      },
+      {
+        "rank": 3,
         "teamId": "392",
         "team": "Birmingham City",
         "played": 14,
@@ -80,7 +95,7 @@
         "isBlues": true
       },
       {
-        "rank": 3,
+        "rank": 4,
         "teamId": "336",
         "team": "Stoke City",
         "played": 14,
@@ -95,7 +110,7 @@
         "isBlues": false
       },
       {
-        "rank": 4,
+        "rank": 5,
         "teamId": "318",
         "team": "Swansea City",
         "played": 14,
@@ -110,7 +125,7 @@
         "isBlues": false
       },
       {
-        "rank": 5,
+        "rank": 6,
         "teamId": "383",
         "team": "West Bromwich Albion",
         "played": 14,
@@ -125,7 +140,7 @@
         "isBlues": false
       },
       {
-        "rank": 6,
+        "rank": 7,
         "teamId": "376",
         "team": "Southampton",
         "played": 14,
@@ -140,32 +155,17 @@
         "isBlues": false
       },
       {
-        "rank": 7,
-        "teamId": "380",
-        "team": "Wolverhampton Wanderers",
-        "played": 13,
-        "won": 7,
-        "drawn": 3,
-        "lost": 3,
-        "goalsFor": 23,
-        "goalsAgainst": 16,
-        "goalDifference": 7,
-        "points": 24,
-        "deduction": 0,
-        "isBlues": false
-      },
-      {
         "rank": 8,
         "teamId": "371",
         "team": "West Ham United",
-        "played": 13,
+        "played": 14,
         "won": 6,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 3,
-        "goalsFor": 33,
-        "goalsAgainst": 18,
+        "goalsFor": 36,
+        "goalsAgainst": 21,
         "goalDifference": 15,
-        "points": 22,
+        "points": 23,
         "deduction": 0,
         "isBlues": false
       },
@@ -263,19 +263,34 @@
         "rank": 15,
         "teamId": "333",
         "team": "Bristol City",
-        "played": 13,
+        "played": 14,
         "won": 5,
         "drawn": 3,
-        "lost": 5,
-        "goalsFor": 15,
-        "goalsAgainst": 17,
-        "goalDifference": -2,
+        "lost": 6,
+        "goalsFor": 16,
+        "goalsAgainst": 19,
+        "goalDifference": -3,
         "points": 18,
         "deduction": 0,
         "isBlues": false
       },
       {
         "rank": 16,
+        "teamId": "352",
+        "team": "Wrexham",
+        "played": 14,
+        "won": 4,
+        "drawn": 5,
+        "lost": 5,
+        "goalsFor": 17,
+        "goalsAgainst": 19,
+        "goalDifference": -2,
+        "points": 17,
+        "deduction": 0,
+        "isBlues": false
+      },
+      {
+        "rank": 17,
         "teamId": "358",
         "team": "Bolton Wanderers",
         "played": 14,
@@ -290,7 +305,22 @@
         "isBlues": false
       },
       {
-        "rank": 17,
+        "rank": 18,
+        "teamId": "347",
+        "team": "Cardiff City",
+        "played": 14,
+        "won": 3,
+        "drawn": 6,
+        "lost": 5,
+        "goalsFor": 22,
+        "goalsAgainst": 23,
+        "goalDifference": -1,
+        "points": 15,
+        "deduction": 0,
+        "isBlues": false
+      },
+      {
+        "rank": 19,
         "teamId": "314",
         "team": "Lincoln City",
         "played": 14,
@@ -301,36 +331,6 @@
         "goalsAgainst": 24,
         "goalDifference": -10,
         "points": 15,
-        "deduction": 0,
-        "isBlues": false
-      },
-      {
-        "rank": 18,
-        "teamId": "347",
-        "team": "Cardiff City",
-        "played": 13,
-        "won": 3,
-        "drawn": 5,
-        "lost": 5,
-        "goalsFor": 19,
-        "goalsAgainst": 20,
-        "goalDifference": -1,
-        "points": 14,
-        "deduction": 0,
-        "isBlues": false
-      },
-      {
-        "rank": 19,
-        "teamId": "352",
-        "team": "Wrexham",
-        "played": 13,
-        "won": 3,
-        "drawn": 5,
-        "lost": 5,
-        "goalsFor": 15,
-        "goalsAgainst": 19,
-        "goalDifference": -4,
-        "points": 14,
         "deduction": 0,
         "isBlues": false
       },
@@ -3052,6 +3052,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-03T23:23:49Z",
-  "updatedLabel": "Tuesday 3 November 2026, 23:23 UK"
+  "updatedAt": "2026-11-04T23:26:02Z",
+  "updatedLabel": "Wednesday 4 November 2026, 23:26 UK"
 }
