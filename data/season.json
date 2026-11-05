@@ -15,7 +15,11 @@
       "usedFor": "Championship matchday numbers only. Scores from that file are not used."
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "No matchday number for Friday 12 February: Birmingham City v Derby County.",
+    "No matchday number for Friday 19 February: Middlesbrough v Birmingham City.",
+    "No matchday number for Friday 26 February: Birmingham City v West Bromwich Albion."
+  ],
   "gaps": [
     "FA Cup: no Birmingham City fixture has been published for 2026/27 yet.",
     "Attendance was not published for 5 finished matches. Those rows leave it blank."
@@ -2357,10 +2361,10 @@
       "stats": null,
       "statsAvailable": false,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880573",
-      "kickoffUtc": "2027-01-16T15:00:00Z",
+      "kickoffUtc": "2027-01-16T12:30:00Z",
       "dateShort": "Sat 16 Jan",
       "dateLong": "Saturday 16 January",
-      "timeUk": "15:00"
+      "timeUk": "12:30"
     },
     {
       "id": "401880577",
@@ -2383,10 +2387,10 @@
       "stats": null,
       "statsAvailable": false,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880577",
-      "kickoffUtc": "2027-01-23T15:00:00Z",
+      "kickoffUtc": "2027-01-23T12:30:00Z",
       "dateShort": "Sat 23 Jan",
       "dateLong": "Saturday 23 January",
-      "timeUk": "15:00"
+      "timeUk": "12:30"
     },
     {
       "id": "401880592",
@@ -2435,10 +2439,10 @@
       "stats": null,
       "statsAvailable": false,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880547",
-      "kickoffUtc": "2027-01-30T15:00:00Z",
+      "kickoffUtc": "2027-01-30T12:30:00Z",
       "dateShort": "Sat 30 Jan",
       "dateLong": "Saturday 30 January",
-      "timeUk": "15:00"
+      "timeUk": "12:30"
     },
     {
       "id": "401880544",
@@ -2470,7 +2474,7 @@
       "id": "401880532",
       "competition": "Championship",
       "competitionCode": "championship",
-      "round": "Matchday 31",
+      "round": null,
       "timeKnown": true,
       "status": "scheduled",
       "statusDetail": null,
@@ -2487,10 +2491,10 @@
       "stats": null,
       "statsAvailable": false,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880532",
-      "kickoffUtc": "2027-02-13T15:00:00Z",
-      "dateShort": "Sat 13 Feb",
-      "dateLong": "Saturday 13 February",
-      "timeUk": "15:00"
+      "kickoffUtc": "2027-02-12T20:00:00Z",
+      "dateShort": "Fri 12 Feb",
+      "dateLong": "Friday 12 February",
+      "timeUk": "20:00"
     },
     {
       "id": "401880517",
@@ -2522,7 +2526,7 @@
       "id": "401880504",
       "competition": "Championship",
       "competitionCode": "championship",
-      "round": "Matchday 33",
+      "round": null,
       "timeKnown": true,
       "status": "scheduled",
       "statusDetail": null,
@@ -2539,16 +2543,16 @@
       "stats": null,
       "statsAvailable": false,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880504",
-      "kickoffUtc": "2027-02-20T15:00:00Z",
-      "dateShort": "Sat 20 Feb",
-      "dateLong": "Saturday 20 February",
-      "timeUk": "15:00"
+      "kickoffUtc": "2027-02-19T20:00:00Z",
+      "dateShort": "Fri 19 Feb",
+      "dateLong": "Friday 19 February",
+      "timeUk": "20:00"
     },
     {
       "id": "401880496",
       "competition": "Championship",
       "competitionCode": "championship",
-      "round": "Matchday 34",
+      "round": null,
       "timeKnown": true,
       "status": "scheduled",
       "statusDetail": null,
@@ -2565,10 +2569,10 @@
       "stats": null,
       "statsAvailable": false,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880496",
-      "kickoffUtc": "2027-02-27T15:00:00Z",
-      "dateShort": "Sat 27 Feb",
-      "dateLong": "Saturday 27 February",
-      "timeUk": "15:00"
+      "kickoffUtc": "2027-02-26T20:00:00Z",
+      "dateShort": "Fri 26 Feb",
+      "dateLong": "Friday 26 February",
+      "timeUk": "20:00"
     },
     {
       "id": "401880483",
@@ -2591,10 +2595,10 @@
       "stats": null,
       "statsAvailable": false,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880483",
-      "kickoffUtc": "2027-03-02T19:45:00Z",
+      "kickoffUtc": "2027-03-02T20:00:00Z",
       "dateShort": "Tue 2 Mar",
       "dateLong": "Tuesday 2 March",
-      "timeUk": "19:45"
+      "timeUk": "20:00"
     },
     {
       "id": "401880472",
@@ -3052,6 +3056,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-04T23:26:02Z",
-  "updatedLabel": "Wednesday 4 November 2026, 23:26 UK"
+  "updatedAt": "2026-11-05T23:27:12Z",
+  "updatedLabel": "Thursday 5 November 2026, 23:27 UK"
 }
