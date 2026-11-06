@@ -297,13 +297,13 @@
         "rank": 17,
         "teamId": "358",
         "team": "Bolton Wanderers",
-        "played": 14,
+        "played": 15,
         "won": 5,
         "drawn": 2,
-        "lost": 7,
-        "goalsFor": 19,
-        "goalsAgainst": 26,
-        "goalDifference": -7,
+        "lost": 8,
+        "goalsFor": 20,
+        "goalsAgainst": 29,
+        "goalDifference": -9,
         "points": 17,
         "deduction": 0,
         "isBlues": false
@@ -387,14 +387,14 @@
         "rank": 23,
         "teamId": "374",
         "team": "Derby County",
-        "played": 14,
-        "won": 1,
+        "played": 15,
+        "won": 2,
         "drawn": 4,
         "lost": 9,
-        "goalsFor": 11,
-        "goalsAgainst": 29,
-        "goalDifference": -18,
-        "points": 7,
+        "goalsFor": 14,
+        "goalsAgainst": 30,
+        "goalDifference": -16,
+        "points": 10,
         "deduction": 0,
         "isBlues": false
       },
@@ -3056,6 +3056,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-05T23:27:12Z",
-  "updatedLabel": "Thursday 5 November 2026, 23:27 UK"
+  "updatedAt": "2026-11-06T23:23:00Z",
+  "updatedLabel": "Friday 6 November 2026, 23:23 UK"
 }
