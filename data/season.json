@@ -737,7 +737,7 @@
         },
         {
           "team": "Birmingham City",
-          "player": "Jhon Solis",
+          "player": "Jhon Solís",
           "minute": "37'",
           "kind": "yellow",
           "detail": null
@@ -933,7 +933,7 @@
         },
         {
           "team": "Birmingham City",
-          "player": "Jhon Solis",
+          "player": "Jhon Solís",
           "minute": "77'",
           "kind": "yellow",
           "detail": null
@@ -1363,7 +1363,7 @@
           "player": "Liam Millar",
           "minute": "55'",
           "kind": "goal",
-          "assist": "Jhon Solis",
+          "assist": "Jhon Solís",
           "ownGoalByClub": null,
           "text": "Goal! Birmingham City 1, Middlesbrough 1. Liam Millar (Birmingham City) left footed shot from the left side of the box to the bottom left corner. Assisted by Jhon Solís."
         },
@@ -1691,7 +1691,7 @@
       "cards": [
         {
           "team": "Birmingham City",
-          "player": "Jhon Solis",
+          "player": "Jhon Solís",
           "minute": "23'",
           "kind": "yellow",
           "detail": null
@@ -1788,7 +1788,7 @@
       "cards": [
         {
           "team": "Birmingham City",
-          "player": "Jhon Solis",
+          "player": "Jhon Solís",
           "minute": "50'",
           "kind": "yellow",
           "detail": null
@@ -1992,7 +1992,7 @@
           "player": "Max Bird",
           "minute": "16'",
           "kind": "goal",
-          "assist": "Jhon Solis",
+          "assist": "Jhon Solís",
           "ownGoalByClub": null,
           "text": "Goal! Birmingham City 2, Millwall 0. Max Bird (Birmingham City) left footed shot from the centre of the box to the bottom right corner. Assisted by Jhon Solís with a headed pass."
         },
@@ -3101,7 +3101,7 @@
         "red": 0
       },
       {
-        "player": "Jhon Solis",
+        "player": "Jhon Solís",
         "yellow": 4,
         "red": 0
       },
@@ -3152,6 +3152,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-07T23:15:56Z",
-  "updatedLabel": "Saturday 7 November 2026, 23:15 UK"
+  "updatedAt": "2026-11-09T08:42:05Z",
+  "updatedLabel": "Monday 9 November 2026, 08:42 UK"
 }
