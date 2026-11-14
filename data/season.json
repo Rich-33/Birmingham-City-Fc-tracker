@@ -1691,7 +1691,7 @@
       "cards": [
         {
           "team": "Birmingham City",
-          "player": "Jhon Solís",
+          "player": "Jhon Solis",
           "minute": "23'",
           "kind": "yellow",
           "detail": null
@@ -1788,7 +1788,7 @@
       "cards": [
         {
           "team": "Birmingham City",
-          "player": "Jhon Solís",
+          "player": "Jhon Solis",
           "minute": "50'",
           "kind": "yellow",
           "detail": null
@@ -1992,7 +1992,7 @@
           "player": "Max Bird",
           "minute": "16'",
           "kind": "goal",
-          "assist": "Jhon Solís",
+          "assist": "Jhon Solis",
           "ownGoalByClub": null,
           "text": "Goal! Birmingham City 2, Millwall 0. Max Bird (Birmingham City) left footed shot from the centre of the box to the bottom right corner. Assisted by Jhon Solís with a headed pass."
         },
@@ -3101,11 +3101,6 @@
         "red": 0
       },
       {
-        "player": "Jhon Solís",
-        "yellow": 4,
-        "red": 0
-      },
-      {
         "player": "Carlos Vicente",
         "yellow": 3,
         "red": 0
@@ -3131,6 +3126,16 @@
         "red": 0
       },
       {
+        "player": "Jhon Solis",
+        "yellow": 2,
+        "red": 0
+      },
+      {
+        "player": "Jhon Solís",
+        "yellow": 2,
+        "red": 0
+      },
+      {
         "player": "Liam Millar",
         "yellow": 2,
         "red": 0
@@ -3152,6 +3157,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-09T08:42:05Z",
-  "updatedLabel": "Monday 9 November 2026, 08:42 UK"
+  "updatedAt": "2026-11-14T23:17:40Z",
+  "updatedLabel": "Saturday 14 November 2026, 23:17 UK"
 }
