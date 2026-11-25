@@ -22,7 +22,7 @@
   ],
   "gaps": [
     "FA Cup: no Birmingham City fixture has been published for 2026/27 yet.",
-    "Attendance was not published for 5 finished matches. Those rows leave it blank."
+    "Attendance was not published for 6 finished matches. Those rows leave it blank."
   ],
   "competitions": [
     {
@@ -30,7 +30,7 @@
       "name": "Championship",
       "fullName": "EFL Championship",
       "listed": 46,
-      "upcoming": 30,
+      "upcoming": 29,
       "note": null
     },
     {
@@ -70,6 +70,21 @@
       },
       {
         "rank": 2,
+        "teamId": "336",
+        "team": "Stoke City",
+        "played": 17,
+        "won": 11,
+        "drawn": 2,
+        "lost": 4,
+        "goalsFor": 27,
+        "goalsAgainst": 19,
+        "goalDifference": 8,
+        "points": 35,
+        "deduction": 0,
+        "isBlues": false
+      },
+      {
+        "rank": 3,
         "teamId": "380",
         "team": "Wolverhampton Wanderers",
         "played": 17,
@@ -84,32 +99,17 @@
         "isBlues": false
       },
       {
-        "rank": 3,
-        "teamId": "336",
-        "team": "Stoke City",
-        "played": 16,
-        "won": 10,
-        "drawn": 2,
-        "lost": 4,
-        "goalsFor": 25,
-        "goalsAgainst": 18,
-        "goalDifference": 7,
-        "points": 32,
-        "deduction": 0,
-        "isBlues": false
-      },
-      {
         "rank": 4,
         "teamId": "392",
         "team": "Birmingham City",
-        "played": 16,
-        "won": 8,
+        "played": 17,
+        "won": 9,
         "drawn": 5,
         "lost": 3,
-        "goalsFor": 28,
+        "goalsFor": 30,
         "goalsAgainst": 15,
-        "goalDifference": 13,
-        "points": 29,
+        "goalDifference": 15,
+        "points": 32,
         "deduction": 0,
         "isBlues": true
       },
@@ -117,14 +117,14 @@
         "rank": 5,
         "teamId": "383",
         "team": "West Bromwich Albion",
-        "played": 16,
-        "won": 8,
+        "played": 17,
+        "won": 9,
         "drawn": 5,
         "lost": 3,
-        "goalsFor": 25,
-        "goalsAgainst": 17,
-        "goalDifference": 8,
-        "points": 29,
+        "goalsFor": 28,
+        "goalsAgainst": 18,
+        "goalDifference": 10,
+        "points": 32,
         "deduction": 0,
         "isBlues": false
       },
@@ -220,6 +220,21 @@
       },
       {
         "rank": 12,
+        "teamId": "365",
+        "team": "Blackburn Rovers",
+        "played": 17,
+        "won": 7,
+        "drawn": 4,
+        "lost": 6,
+        "goalsFor": 25,
+        "goalsAgainst": 25,
+        "goalDifference": 0,
+        "points": 25,
+        "deduction": 0,
+        "isBlues": false
+      },
+      {
+        "rank": 13,
         "teamId": "371",
         "team": "West Ham United",
         "played": 17,
@@ -230,21 +245,6 @@
         "goalsAgainst": 25,
         "goalDifference": 13,
         "points": 24,
-        "deduction": 0,
-        "isBlues": false
-      },
-      {
-        "rank": 13,
-        "teamId": "365",
-        "team": "Blackburn Rovers",
-        "played": 16,
-        "won": 6,
-        "drawn": 4,
-        "lost": 6,
-        "goalsFor": 24,
-        "goalsAgainst": 25,
-        "goalDifference": -1,
-        "points": 22,
         "deduction": 0,
         "isBlues": false
       },
@@ -312,13 +312,13 @@
         "rank": 18,
         "teamId": "391",
         "team": "Millwall",
-        "played": 16,
+        "played": 17,
         "won": 5,
         "drawn": 3,
-        "lost": 8,
-        "goalsFor": 23,
-        "goalsAgainst": 28,
-        "goalDifference": -5,
+        "lost": 9,
+        "goalsFor": 24,
+        "goalsAgainst": 30,
+        "goalDifference": -6,
         "points": 18,
         "deduction": 0,
         "isBlues": false
@@ -327,13 +327,13 @@
         "rank": 19,
         "teamId": "358",
         "team": "Bolton Wanderers",
-        "played": 16,
+        "played": 17,
         "won": 5,
         "drawn": 3,
-        "lost": 8,
-        "goalsFor": 21,
-        "goalsAgainst": 30,
-        "goalDifference": -9,
+        "lost": 9,
+        "goalsFor": 22,
+        "goalsAgainst": 33,
+        "goalDifference": -11,
         "points": 18,
         "deduction": 0,
         "isBlues": false
@@ -342,13 +342,13 @@
         "rank": 20,
         "teamId": "395",
         "team": "Watford",
-        "played": 16,
+        "played": 17,
         "won": 4,
         "drawn": 3,
-        "lost": 9,
+        "lost": 10,
         "goalsFor": 13,
-        "goalsAgainst": 27,
-        "goalDifference": -14,
+        "goalsAgainst": 28,
+        "goalDifference": -15,
         "points": 15,
         "deduction": 0,
         "isBlues": false
@@ -387,13 +387,13 @@
         "rank": 23,
         "teamId": "379",
         "team": "Burnley",
-        "played": 16,
+        "played": 17,
         "won": 1,
         "drawn": 8,
-        "lost": 7,
+        "lost": 8,
         "goalsFor": 24,
-        "goalsAgainst": 33,
-        "goalDifference": -9,
+        "goalsAgainst": 35,
+        "goalDifference": -11,
         "points": 11,
         "deduction": 0,
         "isBlues": false
@@ -2284,20 +2284,121 @@
       "competitionCode": "championship",
       "round": "Matchday 17",
       "timeKnown": true,
-      "status": "scheduled",
-      "statusDetail": null,
+      "status": "finished",
+      "statusDetail": "FT",
       "venue": "Turf Moor",
       "attendance": null,
       "homeTeam": "Burnley",
       "awayTeam": "Birmingham City",
       "bluesHome": false,
-      "homeScore": null,
-      "awayScore": null,
-      "scorers": [],
-      "cards": [],
-      "scorersComplete": false,
-      "stats": null,
-      "statsAvailable": false,
+      "homeScore": 0,
+      "awayScore": 2,
+      "scorers": [
+        {
+          "team": "Birmingham City",
+          "player": "August Priske",
+          "minute": "7'",
+          "kind": "goal",
+          "assist": "Jay Stansfield",
+          "ownGoalByClub": null,
+          "text": "Goal! Burnley 0, Birmingham City 1. August Priske (Birmingham City) left footed shot from very close range to the high centre of the goal. Assisted by Jay Stansfield."
+        },
+        {
+          "team": "Birmingham City",
+          "player": "Jaydon Banel",
+          "minute": "52'",
+          "kind": "own-goal",
+          "assist": null,
+          "ownGoalByClub": "Burnley",
+          "text": "Own Goal by Jaydon Banel, Burnley. Burnley 0, Birmingham City 2."
+        },
+        {
+          "team": "Birmingham City",
+          "player": "Demarai Gray",
+          "minute": "87'",
+          "kind": "penalty-saved",
+          "assist": null,
+          "ownGoalByClub": null,
+          "text": "Penalty saved. Demarai Gray (Birmingham City) right footed shot saved in the bottom right corner by Max Weiss (Burnley)."
+        }
+      ],
+      "cards": [
+        {
+          "team": "Birmingham City",
+          "player": "Jhon Solis",
+          "minute": "20'",
+          "kind": "yellow",
+          "detail": null
+        },
+        {
+          "team": "Burnley",
+          "player": "Jaydon Banel",
+          "minute": "36'",
+          "kind": "yellow",
+          "detail": null
+        },
+        {
+          "team": "Birmingham City",
+          "player": "Alex Cochrane",
+          "minute": "56'",
+          "kind": "yellow",
+          "detail": null
+        },
+        {
+          "team": "Burnley",
+          "player": "Largie Ramazani",
+          "minute": "69'",
+          "kind": "yellow",
+          "detail": null
+        },
+        {
+          "team": "Burnley",
+          "player": "Ugo Raghouber",
+          "minute": "80'",
+          "kind": "yellow",
+          "detail": null
+        },
+        {
+          "team": "Burnley",
+          "player": "Max Alleyne",
+          "minute": "86'",
+          "kind": "yellow",
+          "detail": null
+        },
+        {
+          "team": "Burnley",
+          "player": "Marcus Edwards",
+          "minute": "90'",
+          "kind": "yellow",
+          "detail": null
+        }
+      ],
+      "scorersComplete": true,
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "5",
+          "redCards": "0",
+          "offsides": "7",
+          "wonCorners": "9",
+          "saves": "8",
+          "possessionPct": "56",
+          "totalShots": "13",
+          "shotsOnTarget": "4"
+        },
+        "away": {
+          "foulsCommitted": "11",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "7",
+          "saves": "4",
+          "possessionPct": "44",
+          "totalShots": "19",
+          "shotsOnTarget": "8"
+        }
+      },
+      "statsAvailable": true,
       "reportUrl": "https://www.espn.com/soccer/match/_/gameId/401880139",
       "kickoffUtc": "2026-11-25T19:45:00Z",
       "dateShort": "Wed 25 Nov",
@@ -3063,11 +3164,11 @@
     "scorers": [
       {
         "player": "August Priske",
-        "goals": 7,
+        "goals": 8,
         "penalties": 1,
         "byCompetition": {
           "Carabao Cup": 1,
-          "Championship": 6
+          "Championship": 7
         }
       },
       {
@@ -3163,26 +3264,35 @@
         "matchId": "401880256",
         "dateShort": "Sat 19 Sep",
         "competition": "Championship"
+      },
+      {
+        "player": "Jaydon Banel",
+        "club": "Burnley",
+        "minute": "52'",
+        "opponent": "Burnley",
+        "matchId": "401880139",
+        "dateShort": "Wed 25 Nov",
+        "competition": "Championship"
       }
     ],
     "cards": [
+      {
+        "player": "Alex Cochrane",
+        "yellow": 5,
+        "red": 0
+      },
       {
         "player": "Bright Osayi-Samuel",
         "yellow": 5,
         "red": 0
       },
       {
-        "player": "Alex Cochrane",
-        "yellow": 4,
+        "player": "Jhon Solis",
+        "yellow": 5,
         "red": 0
       },
       {
         "player": "Christoph Klarer",
-        "yellow": 4,
-        "red": 0
-      },
-      {
-        "player": "Jhon Solis",
         "yellow": 4,
         "red": 0
       },
@@ -3228,6 +3338,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-24T23:33:40Z",
-  "updatedLabel": "Tuesday 24 November 2026, 23:33 UK"
+  "updatedAt": "2026-11-25T23:34:08Z",
+  "updatedLabel": "Wednesday 25 November 2026, 23:34 UK"
 }
