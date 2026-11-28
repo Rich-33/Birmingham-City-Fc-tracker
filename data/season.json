@@ -57,13 +57,13 @@
         "rank": 1,
         "teamId": "369",
         "team": "Middlesbrough",
-        "played": 17,
+        "played": 18,
         "won": 10,
         "drawn": 5,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 34,
-        "goalsAgainst": 20,
-        "goalDifference": 14,
+        "goalsAgainst": 22,
+        "goalDifference": 12,
         "points": 35,
         "deduction": 0,
         "isBlues": false
@@ -132,14 +132,14 @@
         "rank": 6,
         "teamId": "376",
         "team": "Southampton",
-        "played": 17,
-        "won": 9,
+        "played": 18,
+        "won": 10,
         "drawn": 5,
         "lost": 3,
-        "goalsFor": 32,
+        "goalsFor": 34,
         "goalsAgainst": 16,
-        "goalDifference": 16,
-        "points": 28,
+        "goalDifference": 18,
+        "points": 31,
         "deduction": 4,
         "isBlues": false
       },
@@ -3338,6 +3338,6 @@
       }
     ]
   },
-  "updatedAt": "2026-11-25T23:34:08Z",
-  "updatedLabel": "Wednesday 25 November 2026, 23:34 UK"
+  "updatedAt": "2026-11-28T04:17:27Z",
+  "updatedLabel": "Saturday 28 November 2026, 04:17 UK"
 }
